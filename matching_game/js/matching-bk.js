@@ -7,6 +7,7 @@ var tiles = new Array(),
 	iTimer = 0,
 	iInterval = 100,
 	iPeekTime = 3000;
+//wendystest
 
 function getRandomImageForTile() {
 
